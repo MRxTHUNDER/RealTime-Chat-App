@@ -6,5 +6,6 @@
 Real-Time Messaging:
 
 Instantly exchange text messages with individuals or groups.
+
 Enjoy low-latency communication for a smooth chatting experience.
 
